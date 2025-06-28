@@ -41,6 +41,7 @@ A modern, interactive web application that performs customer segmentation using 
 
 3. **Open your browser:**
    Visit [http://localhost:5173](http://localhost:5173)
+   Live-https://vercel.com/md-emon-hossens-projects/customer-segmentation-analytics
 
 ## 📂 Project Structure
 
